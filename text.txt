@@ -1,0 +1,8 @@
+total 6.0K
+drwxr-xr-x 1 i80430 1049089  0 Jan 21 17:12 ExData_Plotting1/
+drwxr-xr-x 1 i80430 1049089  0 Feb  5 09:28 Getting And Cleaning Data/
+-rw-r--r-- 1 i80430 1049089 26 Jan 19 11:16 HelloWorld.md
+drwxr-xr-x 1 i80430 1049089  0 Jan 28 14:10 ProgrammingAssignment2/
+-rw-r--r-- 1 i80430 1049089 44 Jan 19 12:43 README.md
+drwxr-xr-x 1 i80430 1049089  0 Jan 21 17:18 RepData_PeerAssessment1/
+-rw-r--r-- 1 i80430 1049089  0 Apr  4 14:36 text.txt
